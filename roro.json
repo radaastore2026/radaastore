@@ -1,0 +1,34 @@
+{
+    "phones": [
+        {
+            "js_id": "roro",
+            "is_edit": "1",
+            "phone_tablt": "phone",
+            "phone_brand": "SAMSUNG",
+            "phone_name": "SAMSUNG S24 ULTR",
+            "phone_storage": "512GB",
+            "phone_ram": "12GB",
+            "phone_cpu": "Qualcomm Snapdragon ",
+            "phone_tkikm": "⭐️⭐️⭐️⭐️⭐️",
+            "phone_code": "roro",
+            "phone_thmanh": "ضمان سنه كاملا ضد عيوب الصناعه بالفاتورة",
+            "phone_kmyh": "1",
+            "phone_tklfh": "561",
+            "phone_price": "571$",
+            "phone_disc": "",
+            "phone_status": "شبه جديد",
+            "phone_stock": "تحت المراجعة",
+            "phone_battery": "5000",
+            "phone_color": "أبيض - أسود",
+            "phone_sim": "شريحتين ",
+            "phone_Desc": "",
+            "phone_parts": "",
+            "images": [
+                ".\/asset\/images\/phone_PH-_354_c5f6e44f-de29-4a57-867b-e4b1b13d639d.jfif.webp"
+            ],
+            "id": "PH-1781136075",
+            "entry_date": "2026-06-10 20:01:15",
+            "last_update": "2026-06-10 20:01:24"
+        }
+    ]
+}
